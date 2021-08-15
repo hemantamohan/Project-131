@@ -1,0 +1,13 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+#date
+{
+   float: right;
+}
